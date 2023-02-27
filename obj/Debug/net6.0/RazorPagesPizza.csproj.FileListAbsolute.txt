@@ -1,0 +1,57 @@
+F:\kuliah\semester 6\RazorPagesPizza\bin\Debug\net6.0\appsettings.Development.json
+F:\kuliah\semester 6\RazorPagesPizza\bin\Debug\net6.0\appsettings.json
+F:\kuliah\semester 6\RazorPagesPizza\bin\Debug\net6.0\RazorPagesPizza.staticwebassets.runtime.json
+F:\kuliah\semester 6\RazorPagesPizza\bin\Debug\net6.0\RazorPagesPizza.exe
+F:\kuliah\semester 6\RazorPagesPizza\bin\Debug\net6.0\RazorPagesPizza.deps.json
+F:\kuliah\semester 6\RazorPagesPizza\bin\Debug\net6.0\RazorPagesPizza.runtimeconfig.json
+F:\kuliah\semester 6\RazorPagesPizza\bin\Debug\net6.0\RazorPagesPizza.dll
+F:\kuliah\semester 6\RazorPagesPizza\bin\Debug\net6.0\RazorPagesPizza.pdb
+F:\kuliah\semester 6\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.csproj.AssemblyReference.cache
+F:\kuliah\semester 6\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.GeneratedMSBuildEditorConfig.editorconfig
+F:\kuliah\semester 6\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.AssemblyInfoInputs.cache
+F:\kuliah\semester 6\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.AssemblyInfo.cs
+F:\kuliah\semester 6\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.csproj.CoreCompileInputs.cache
+F:\kuliah\semester 6\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.MvcApplicationPartsAssemblyInfo.cache
+F:\kuliah\semester 6\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.RazorAssemblyInfo.cache
+F:\kuliah\semester 6\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.RazorAssemblyInfo.cs
+F:\kuliah\semester 6\RazorPagesPizza\obj\Debug\net6.0\staticwebassets.build.json
+F:\kuliah\semester 6\RazorPagesPizza\obj\Debug\net6.0\staticwebassets.development.json
+F:\kuliah\semester 6\RazorPagesPizza\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+F:\kuliah\semester 6\RazorPagesPizza\obj\Debug\net6.0\scopedcss\bundle\RazorPagesPizza.styles.css
+F:\kuliah\semester 6\RazorPagesPizza\obj\Debug\net6.0\scopedcss\projectbundle\RazorPagesPizza.bundle.scp.css
+F:\kuliah\semester 6\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.dll
+F:\kuliah\semester 6\RazorPagesPizza\obj\Debug\net6.0\refint\RazorPagesPizza.dll
+F:\kuliah\semester 6\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.pdb
+F:\kuliah\semester 6\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.genruntimeconfig.cache
+F:\kuliah\semester 6\RazorPagesPizza\obj\Debug\net6.0\ref\RazorPagesPizza.dll
+D:\RazorPagesPizza\bin\Debug\net6.0\appsettings.Development.json
+D:\RazorPagesPizza\bin\Debug\net6.0\appsettings.json
+D:\RazorPagesPizza\bin\Debug\net6.0\RazorPagesPizza.staticwebassets.runtime.json
+D:\RazorPagesPizza\bin\Debug\net6.0\RazorPagesPizza.exe
+D:\RazorPagesPizza\bin\Debug\net6.0\RazorPagesPizza.deps.json
+D:\RazorPagesPizza\bin\Debug\net6.0\RazorPagesPizza.runtimeconfig.json
+D:\RazorPagesPizza\bin\Debug\net6.0\RazorPagesPizza.dll
+D:\RazorPagesPizza\bin\Debug\net6.0\RazorPagesPizza.pdb
+D:\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.csproj.AssemblyReference.cache
+D:\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.GeneratedMSBuildEditorConfig.editorconfig
+D:\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.AssemblyInfoInputs.cache
+D:\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.AssemblyInfo.cs
+D:\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.csproj.CoreCompileInputs.cache
+D:\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.MvcApplicationPartsAssemblyInfo.cache
+D:\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.RazorAssemblyInfo.cache
+D:\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.RazorAssemblyInfo.cs
+D:\RazorPagesPizza\obj\Debug\net6.0\staticwebassets\msbuild.RazorPagesPizza.Microsoft.AspNetCore.StaticWebAssets.props
+D:\RazorPagesPizza\obj\Debug\net6.0\staticwebassets\msbuild.build.RazorPagesPizza.props
+D:\RazorPagesPizza\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RazorPagesPizza.props
+D:\RazorPagesPizza\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RazorPagesPizza.props
+D:\RazorPagesPizza\obj\Debug\net6.0\staticwebassets.pack.json
+D:\RazorPagesPizza\obj\Debug\net6.0\staticwebassets.build.json
+D:\RazorPagesPizza\obj\Debug\net6.0\staticwebassets.development.json
+D:\RazorPagesPizza\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\RazorPagesPizza\obj\Debug\net6.0\scopedcss\bundle\RazorPagesPizza.styles.css
+D:\RazorPagesPizza\obj\Debug\net6.0\scopedcss\projectbundle\RazorPagesPizza.bundle.scp.css
+D:\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.dll
+D:\RazorPagesPizza\obj\Debug\net6.0\refint\RazorPagesPizza.dll
+D:\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.pdb
+D:\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.genruntimeconfig.cache
+D:\RazorPagesPizza\obj\Debug\net6.0\ref\RazorPagesPizza.dll
